@@ -3,9 +3,11 @@
  
 android-studio
 android-tools #fastboot && adb
+apache-tools #for ab - a http bechmarking tool
 authy #MFA authenticator
 bat #RS
 bpytop
+bpython #python cli with colors (syntax highlighting)
 brave-nightly-bin
 clamav #anti-virus
 dbeaver
@@ -46,6 +48,7 @@ rustup #RS
 spotify
 stacer-bin
 starship #RS #promt customisation
+steam #if you don't know wt is this then just die mf
 tokei #RS #lists number of lines of code in a project
 ttf-firacode-nerd
 ttf-victor-mono-nerd
